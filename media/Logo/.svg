@@ -1,0 +1,34 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 299.94531">
+  <defs>
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Roboto);
+      .cls-1 {
+        font-size: 91.73769px;
+        fill: #47799c;
+        font-family: 'Roboto', sans-serif;
+      }
+      .cls-2 {
+        white-space: pre;
+      }
+      .cls-3 {
+        fill: #4889b6;
+      }
+      .cls-4 {
+        fill: #e87473;
+      }
+      .cls-5 {
+        fill: #ecec8d;
+      }
+      .cls-6 {
+        fill: #9c3f3e;
+      }
+
+    </style>
+  </defs>
+  <title>Color_ZachLogo</title>
+  <text class="cls-1" transform="translate(183.27148 164.99951)">A<tspan x="51.19922" y="0">CH</tspan>
+    <tspan class="cls-2">
+      <tspan x="0" y="110.08496">
+        GLASSNER</tspan>
+    </tspan>
+  </text><polygon class="cls-3" points="137.453 183 183.271 274.636 229.089 183 137.453 183"/><polygon class="cls-4" points="0 92 45.818 0.364 91.636 92 0 92"/><polygon class="cls-5" points="45.818 0 229.089 0 137.453 183.271 45.818 0"/><polygon class="cls-6" points="0 275 183.271 275 91.636 91.729 0 275"/></svg>
